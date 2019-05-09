@@ -31,13 +31,13 @@
       </div>
     </div>
 
-   <!--  <div class="row">
+    <div class="row">
       <div class="col-50">
           <p><img style="width: 100%" src="gambar/beach.jpg"/></p>
         </div>
         <div class="col-50">
           <p><img src="gambar/monas.jpg"/></p>
         </div>
-      </div> -->
+      </div>
   </body>
 </html>
